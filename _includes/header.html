@@ -9,71 +9,7 @@
 			<div id="header">
 				<img id="logo" src="/img/logo-studiosteph.jpg" />
 			</div>
-			<nav>
-			<ul>
-				{% if page.title == 'home' %}
-					<li class="homeactive"><span>home</span></li>
-				{% else %}
-					<li class="home"><a href="/"><img src="/img/home.jpg" width="150px"/></a></li>
-				{% endif %}
 
-				{% if page.title != 'home' and page.title != 'contact' and page.title != 'about' and page.title != 'links' %}
-					<li class="workactive"><span>work</span></li>
-				{% else %}
-				<li class="work"><a href="/work.html"><img src="/img/work.jpg" width="150px"/></a></li>
-				{% endif %}
-
-				{% if page.title == 'contact' %}
-					<li class="contactactive"><span>contact</span></li>
-				{% else %}
-					<li class="contact"><a href="/contact.html"><img src="/img/contact.jpg" width="150px" /></a></li>
-				{% endif %}
-				
-				{% if page.title == 'about' %}
-					<li class="aboutactive"><span>about</span></li>
-				{% else %}
-					<li class="about"><a href="/about.html"><img src="/img/about-zw.jpg" width="150px" /></a></li>
-				{% endif %}
-
-				{% if page.title == 'links' %}
-					<li class="linksactive"><span>links</span></li>
-				{% else %}
-					<li class="links"><a href="links.html"><img src="/img/links.jpg" width="150px" /></a></li>
-				{% endif %}
-				</ul>
-			</nav>
-
-			<div id="submenu">
-				{% if page.title == 'home' or page.title == 'contact' or page.title == 'about' or page.title == 'links' %}
-					&nbsp;	
-				{% else %} 
-					<ul>
-						<li>
-							<span>Illustration</span>
-							<ul>
-								{% for post in site.categories.illustration %}
-									{% if post.title == page.title %}
-										<li class="underline"><a href="#">{{ post.title }}</a></li>
-									{% else %}
-										<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-									{% endif %}
-								{% endfor %}
-							</ul>
-						</li>
-						<li>
-							<span>Urban</span>
-							<ul>
-								<li><a href="#">blaat</a></li>
-							</ul>
-							</li>
-						<li>
-							<span>Graphic</span>
-						</li>
-						<li>
-							<span>More</span>
-						</li>
-					</ul>
-					{% endif %}
-			</div>
+			{% include navigation.html %}
 			
 			<div id="content">

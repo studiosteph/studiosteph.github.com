@@ -4,5 +4,6 @@ base_url: /
 title: StudioSteph
 author: Steph
 markdown: rdiscount
+permalink: /:categories/:title.html
 
 exclude: ['README.md']

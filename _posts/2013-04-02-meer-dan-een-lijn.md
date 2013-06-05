@@ -6,7 +6,7 @@ category: illustration
 published: true
 permalink:  /work/illustration/meer-dan-een-lijn.html
 ---
-# Meer dan een lijn
+# meer dan een lijn
 
 Meer dan een lijn is een ontwerp voor de openbare ruimte, waarin de vakgebieden Illustration en Urban Interior Architecture samen komen en elkaar verrijken. Samen vertellen ze de geschiedenis van de plek, het Stadhuisplein te Utrecht. De lijnen op het plein maken de bebouwing van het verleden zichtbaar. Het verleden onderverdeeld in 4 ruimte perioden van tijd; de Middeleeuwen, de Gouwen Eeuw, de 20e Eeuw en het nu; de 21e Eeuw. Door het gebruik van verschillende materialen zijn de lijnen te onderscheiden, elk herkenbaar voor een eigen periode en geillustreerd met een eigen verhaal. Door middel van het toevoegen van deze illustraties aan de openbare ruimte wordt er een toegevoegde waarde aan het plein gegeven; een informatieve, historische, culturele en decoratieve waarde. 
 
@@ -14,25 +14,25 @@ Aan de hand van de lijnen ontdek je van een afstand de verdwenen bebouwing van h
 
 Hieronder vind je de uitleg van de illustraties.
 
-## 21e Eeuw
-<img src="/img/meerdaneenlijn/21eeuw/21eeuw-1.png" width="500px" />
-<img src="/img/meerdaneenlijn/21eeuw/21eeuw-2.png" width="500px" />
-<img src="/img/meerdaneenlijn/21eeuw/21eeuw-3.png" width="500px" />
+## eenentwintigste eeuw
+<a href="/img/meerdaneenlijn/21eeuw/21eeuw-1.png" rel="lightbox[21eeuw]"><img src="/img/meerdaneenlijn/21eeuw/21eeuw-1.png" width="500px" /></a>
+<a href="/img/meerdaneenlijn/21eeuw/21eeuw-2.png" rel="lightbox[21eeuw]"><img src="/img/meerdaneenlijn/21eeuw/21eeuw-2.png" width="500px" /></a>
+<a href="/img/meerdaneenlijn/21eeuw/21eeuw-3.png" rel="lightbox[21eeuw]"><img src="/img/meerdaneenlijn/21eeuw/21eeuw-3.png" width="250px" /></a>
 
-## 20e Eeuw
+## twinstigste eeuw
 
-<img src="/img/meerdaneenlijn/20eeuw/20eeuw-1.png" width="500px" />
-<img src="/img/meerdaneenlijn/20eeuw/20eeuw-2.png" width="500px" />
-<img src="/img/meerdaneenlijn/20eeuw/20eeuw-3.png" width="500px" />
+<a href="/img/meerdaneenlijn/20eeuw/20eeuw-1.png" rel="lightbox[20eeuw]"><img src="/img/meerdaneenlijn/20eeuw/20eeuw-1.png" width="500px" /></a>
+<a href="/img/meerdaneenlijn/20eeuw/20eeuw-2.png" rel="lightbox[20eeuw]"><img src="/img/meerdaneenlijn/20eeuw/20eeuw-2.png" width="500px" /></a>
+<a href="/img/meerdaneenlijn/20eeuw/20eeuw-3lpng" rel="lightbox[20eeuw]"><img src="/img/meerdaneenlijn/20eeuw/20eeuw-3.png" width="250px" /></a>
 
-## Middeleeuwen
+## gouden eeuw
 
-<img src="/img/meerdaneenlijn/middeleeuwen/middeleeuw-1.png" width="500px" />
-<img src="/img/meerdaneenlijn/middeleeuwen/middeleeuw-2.png" width="500px" />
-<img src="/img/meerdaneenlijn/middeleeuwen/middeleeuw-3.png" width="500px" />
+<a href="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-1.png" rel="lightbox[gouden]"><img src="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-1.png" width="500px" /></a>
+<a href="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-2.png" rel="lightbox[gouden]"><img src="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-2.png" width="500px" /></a>
+<a href="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-3.png"><img src="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-3.png" width="250px" /></a>
 
-## Gouden eeuw
+## middeleeuwen
 
-<img src="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-1.png" width="500px" />
-<img src="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-2.png" width="500px" />
-<img src="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-3.png" width="500px" />
+<a href="/img/meerdaneenlijn/middeleeuwen/middeleeuw-1.png" rel="lightbox[middel]"><img src="/img/meerdaneenlijn/middeleeuwen/middeleeuw-1.png" width="500px" /></a>
+<a href="/img/meerdaneenlijn/middeleeuwen/middeleeuw-2.png" rel="lightbox[middel]"><img src="/img/meerdaneenlijn/middeleeuwen/middeleeuw-2.png" width="500px" /></a>
+<a href="/img/meerdaneenlijn/middeleeuwen/middeleeuw-3.png" rel="lightbox[middel]"><img src="/img/meerdaneenlijn/middeleeuwen/middeleeuw-3.png" width="250px" /></a>

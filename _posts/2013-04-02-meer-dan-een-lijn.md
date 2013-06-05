@@ -29,7 +29,7 @@ Hieronder vind je de uitleg van de illustraties.
 
 <a href="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-1.png" rel="lightbox[gouden]"><img src="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-1.png" width="500px" /></a>
 <a href="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-2.png" rel="lightbox[gouden]"><img src="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-2.png" width="500px" /></a>
-<a href="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-3.png"><img src="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-3.png" width="250px" /></a>
+<a href="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-3.png" rel="lightbox[gouden]">><img src="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-3.png" width="250px" /></a>
 
 ## middeleeuwen
 

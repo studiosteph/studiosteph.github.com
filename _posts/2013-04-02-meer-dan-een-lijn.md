@@ -23,7 +23,7 @@ Hieronder vind je de uitleg van de illustraties.
 
 <a href="/img/meerdaneenlijn/20eeuw/20eeuw-1.png" rel="lightbox[20eeuw]"><img src="/img/meerdaneenlijn/20eeuw/20eeuw-1.png" width="500px" /></a>
 <a href="/img/meerdaneenlijn/20eeuw/20eeuw-2.png" rel="lightbox[20eeuw]"><img src="/img/meerdaneenlijn/20eeuw/20eeuw-2.png" width="500px" /></a>
-<a href="/img/meerdaneenlijn/20eeuw/20eeuw-3lpng" rel="lightbox[20eeuw]"><img src="/img/meerdaneenlijn/20eeuw/20eeuw-3.png" width="250px" /></a>
+<a href="/img/meerdaneenlijn/20eeuw/20eeuw-3.png" rel="lightbox[20eeuw]"><img src="/img/meerdaneenlijn/20eeuw/20eeuw-3.png" width="250px" /></a>
 
 ## gouden eeuw
 

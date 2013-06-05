@@ -15,24 +15,34 @@ Aan de hand van de lijnen ontdek je van een afstand de verdwenen bebouwing van h
 Hieronder vind je de uitleg van de illustraties.
 
 ## eenentwintigste eeuw
-<a href="/img/meerdaneenlijn/21eeuw/21eeuw-1.png" rel="lightbox[21eeuw]"><img src="/img/meerdaneenlijn/21eeuw/21eeuw-1.png" width="500px" /></a>
-<a href="/img/meerdaneenlijn/21eeuw/21eeuw-2.png" rel="lightbox[21eeuw]"><img src="/img/meerdaneenlijn/21eeuw/21eeuw-2.png" width="500px" /></a>
-<a href="/img/meerdaneenlijn/21eeuw/21eeuw-3.png" rel="lightbox[21eeuw]"><img src="/img/meerdaneenlijn/21eeuw/21eeuw-3.png" width="250px" /></a>
+<a href="/img/meerdaneenlijn/21eeuw/cover21.png" rel="lightbox[21eeuw]"><img src="/img/meerdaneenlijn/21eeuw/cover21.png" width="300px" /></a>
+<a href="/img/meerdaneenlijn/21eeuw/21-1.png" rel="lightbox[21eeuw]">&nbsp;</a>
+<a href="/img/meerdaneenlijn/21eeuw/21-2.png" rel="lightbox[21eeuw]">&nbsp;</a>
+<a href="/img/meerdaneenlijn/21eeuw/21-3.png" rel="lightbox[21eeuw]">&nbsp;</a>
+<a href="/img/meerdaneenlijn/21eeuw/21-4.png" rel="lightbox[21eeuw]">&nbsp;</a>
+<a href="/img/meerdaneenlijn/21eeuw/21-5.png" rel="lightbox[21eeuw]">&nbsp;</a>
 
 ## twinstigste eeuw
-
-<a href="/img/meerdaneenlijn/20eeuw/20eeuw-1.png" rel="lightbox[20eeuw]"><img src="/img/meerdaneenlijn/20eeuw/20eeuw-1.png" width="500px" /></a>
-<a href="/img/meerdaneenlijn/20eeuw/20eeuw-2.png" rel="lightbox[20eeuw]"><img src="/img/meerdaneenlijn/20eeuw/20eeuw-2.png" width="500px" /></a>
-<a href="/img/meerdaneenlijn/20eeuw/20eeuw-3.png" rel="lightbox[20eeuw]"><img src="/img/meerdaneenlijn/20eeuw/20eeuw-3.png" width="250px" /></a>
-
+<a href="/img/meerdaneenlijn/21eeuw/cover20.png" rel="lightbox[20eeuw]"><img src="/img/meerdaneenlijn/20eeuw/cover20.png" width="300px" /></a>
+<a href="/img/meerdaneenlijn/20eeuw/20-1.png" rel="lightbox[20eeuw]">&nbsp;</a>
+<a href="/img/meerdaneenlijn/20eeuw/20-2.png" rel="lightbox[20eeuw]">&nbsp;</a>
+<a href="/img/meerdaneenlijn/20eeuw/20-3.png" rel="lightbox[20eeuw]">&nbsp;</a>
+<a href="/img/meerdaneenlijn/20eeuw/20-4.png" rel="lightbox[20eeuw]">&nbsp;</a>
+<a href="/img/meerdaneenlijn/20eeuw/20-5.png" rel="lightbox[20eeuw]">&nbsp;</a>
 ## gouden eeuw
 
-<a href="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-1.png" rel="lightbox[gouden]"><img src="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-1.png" width="500px" /></a>
-<a href="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-2.png" rel="lightbox[gouden]"><img src="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-2.png" width="500px" /></a>
-<a href="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-3.png" rel="lightbox[gouden]">><img src="/img/meerdaneenlijn/goudeneeuw/goudeneeuw-3.png" width="250px" /></a>
+<a href="/img/meerdaneenlijn/goudeneeuw/cover-goud.png" rel="lightbox[gouden]"><img src="/img/meerdaneenlijn/goudeneeuw/cover-goud.png" width="300px" /></a>
+<a href="/img/meerdaneenlijn/goudeneeuw/goud-1.png" rel="lightbox[gouden]">&nbsp;</a>
+<a href="/img/meerdaneenlijn/goudeneeuw/goud-2.png" rel="lightbox[gouden]">&nbsp;</a>
+<a href="/img/meerdaneenlijn/goudeneeuw/goud-3.png" rel="lightbox[gouden]">&nbsp;</a>
+<a href="/img/meerdaneenlijn/goudeneeuw/goud-4.png" rel="lightbox[gouden]">&nbsp;</a>
+<a href="/img/meerdaneenlijn/goudeneeuw/goud-5.png" rel="lightbox[gouden]">&nbsp;</a>
 
 ## middeleeuwen
 
-<a href="/img/meerdaneenlijn/middeleeuwen/middeleeuw-1.png" rel="lightbox[middel]"><img src="/img/meerdaneenlijn/middeleeuwen/middeleeuw-1.png" width="500px" /></a>
-<a href="/img/meerdaneenlijn/middeleeuwen/middeleeuw-2.png" rel="lightbox[middel]"><img src="/img/meerdaneenlijn/middeleeuwen/middeleeuw-2.png" width="500px" /></a>
-<a href="/img/meerdaneenlijn/middeleeuwen/middeleeuw-3.png" rel="lightbox[middel]"><img src="/img/meerdaneenlijn/middeleeuwen/middeleeuw-3.png" width="250px" /></a>
+<a href="/img/meerdaneenlijn/middeleeuwen/covermiddel.png" rel="lightbox[middel]"><img src="/img/meerdaneenlijn/middeleeuwen/covermiddel.png" width="300px" /></a>
+<a href="/img/meerdaneenlijn/middeleeuwen/middel-1.png" rel="lightbox[middel]">&nbsp;</a>
+<a href="/img/meerdaneenlijn/middeleeuwen/middel-2.png" rel="lightbox[middel]">&nbsp;</a>
+<a href="/img/meerdaneenlijn/middeleeuwen/middel-3.png" rel="lightbox[middel]">&nbsp;</a>
+<a href="/img/meerdaneenlijn/middeleeuwen/middel-4.png" rel="lightbox[middel]">&nbsp;</a>
+<a href="/img/meerdaneenlijn/middeleeuwen/middel-5.png" rel="lightbox[middel]">&nbsp;</a>

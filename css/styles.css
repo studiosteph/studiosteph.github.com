@@ -136,6 +136,10 @@ nav li.linksactive {
 	width: 580px;
 }
 
+#content img {
+	margin-left: 40px;
+}
+
 #content li a {
 	font-size: 18pt;
 }

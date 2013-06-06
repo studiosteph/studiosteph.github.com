@@ -137,8 +137,9 @@ nav li.linksactive {
 	width: 580px;
 }
 
-#content img.floatleft {
+#content div.floatLeft {
 	float: left;
+	width: 250px;
 }
 
 #content li a {

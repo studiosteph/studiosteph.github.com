@@ -1,0 +1,159 @@
+body {
+	margin: 0;
+	padding: 0;
+
+	font-family: 'Times New Roman', Georgia; 
+	font-size: 13pt;
+	color: #000;
+}
+
+h1 {
+	font-size: 18pt
+	font-weight: normal;
+}
+
+h1 em {
+	font-size: 13pt;
+}
+
+h2 {
+	font-size: 15pt;	
+	font-weight: normal;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 0;
+}
+
+a {
+	color: #7fc288;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#wrapper {
+	width: 960px;
+	margin-left: 100px;
+}
+
+#header {
+	width: 960px;
+	margin-left: 345px;
+}
+
+#logo {
+	width: 350px;
+	margin-top: 20px;
+}
+
+nav {
+	width: 180px;
+	float: left;
+}
+
+nav li {
+}
+
+nav li.home {
+	height: 75px;
+	margin-bottom: 10px;
+}
+
+nav li.homeactive {
+	margin: 20px 30px;
+}
+
+nav li span, #submenu span {
+	color: #7fc288;
+	font-size: 20pt;
+}
+
+nav li.work {
+	height: 70px;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+
+nav li.workactive {
+	margin: 20px 30px;
+}
+
+nav li.contact {
+	height: 75px;
+}
+
+nav li.contactactive {
+	margin: 20px 30px;
+}
+
+nav li.about {
+	height: 75px;
+	margin-left: 5px;
+}
+
+nav li.aboutactive {
+	margin: 20px 30px;
+}
+
+nav li.links {
+	height: 75px;
+}
+
+nav li.linksactive {
+	margin: 20px 30px;
+}
+
+#submenu {
+	float: left;
+	width: 160px;
+	min-width: 160px;
+	font-size: 18pt;
+}
+
+#submenu span {
+	font-size: 18pt;
+}
+
+#submenu ul li ul {
+	margin-top: 5px;
+	margin-left: 3px;
+	font-size: 15pt;
+}
+
+#submenu ul li ul a {
+	color: #000;	
+}
+
+#content {
+	float: left;
+	width: 580px;
+}
+
+#content img.floatleft {
+	float: left;
+}
+
+#content li a {
+	font-size: 18pt;
+}
+
+footer {
+	background-image: url('../img/streepje.jpg');
+	background-repeat: no-repeat;
+	background-position: right;
+	clear: both;
+	margin-left: 260px;
+	width: 710px;
+	font-size: 9pt;
+	text-align: right;
+	padding-top: 50px;
+}
+

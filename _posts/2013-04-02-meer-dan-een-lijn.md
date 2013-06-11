@@ -23,7 +23,7 @@ Hieronder vind je de uitleg van de illustraties (klik op het tijdperk om diashow
 </div>
 
 <div class="floatLeft">
-<a href="/img/meerdaneenlijn/20eeuw/20-1.png" rel="lightbox[20eeuw]"><img src="/img/meerdaneenlijn/20eeuw/cover20.png" width="244px" /></a>
+<a href="/img/meerdaneenlijn/20eeuw/20-1.png" rel="lightbox[20eeuw]"><img src="/img/meerdaneenlijn/20eeuw/cover20.png" width="250px" /></a>
 <a href="/img/meerdaneenlijn/20eeuw/20-2.png" rel="lightbox[20eeuw]">&nbsp;</a>
 <a href="/img/meerdaneenlijn/20eeuw/20-3.png" rel="lightbox[20eeuw]">&nbsp;</a>
 <a href="/img/meerdaneenlijn/20eeuw/20-4.png" rel="lightbox[20eeuw]">&nbsp;</a>

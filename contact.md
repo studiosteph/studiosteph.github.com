@@ -3,15 +3,14 @@ layout: index
 title: contact
 ---
 
-Wanna contact me? Please do the following: 
+Je kunt me het beste bereiken via e-mail.
+
+> "debaas apestaart studiosteph punt nl"
 
 
 StudioSteph<br/>
-Bootstraat 17<br/>
-3500AA Utrecht
+Utrecht
 
-E-mail me at: <br/>
-"debaas apestaart studiosteph punt nl"
 
 
 

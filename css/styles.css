@@ -147,11 +147,7 @@ nav li.linksactive {
 }
 
 footer {
-	background-image: url('../img/streepje.jpg');
-	background-repeat: no-repeat;
-	background-position: right;
-	clear: both;
-	margin-left: 260px;
+	margin-left: 200px;
 	width: 710px;
 	font-size: 9pt;
 	text-align: right;

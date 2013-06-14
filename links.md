@@ -2,6 +2,6 @@
 layout: index
 title: links
 ---
-* [deridderdesignstudio.nl](deridderdesignstudio.nl)
-* [lotterijpstra.nl](lotterijpstra.nl)
-* [designedbykim.nl](http://designedbykim.nl)
+* [deridderdesignstudio.com](http://www.deridderdesignstudio.com)
+* [lotterijpstra.nl](http://www.lotterijpstra.nl)
+* [designed-by-kim.nl](http://designed-by-kim.nl)

@@ -21,6 +21,12 @@ h2 {
 	font-weight: normal;
 }
 
+h2 em {
+	font-size: 15pt;
+	font-style: normal;
+	text-decoration: none;
+}
+
 .underline {
 	text-decoration: underline;
 }
@@ -144,6 +150,7 @@ nav li.linksactive {
 
 #content img.floatLeft {
 	float: left;
+	margin-left: 10px;
 }
 
 #content li a {

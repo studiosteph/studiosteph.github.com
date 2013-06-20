@@ -142,6 +142,10 @@ nav li.linksactive {
 	width: 250px;
 }
 
+#content img.floatLeft {
+	float: left;
+}
+
 #content li a {
 	font-size: 18pt;
 }
@@ -154,3 +158,10 @@ footer {
 	padding-top: 50px;
 }
 
+.hidden {
+	display: none;
+}
+
+.shown {
+	display: block;
+}

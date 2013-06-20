@@ -35,52 +35,52 @@
 <div id="submenu">
 	{% if page.title == 'home' or page.title == 'contact' or page.title == 'about' or page.title == 'links' %}
 		&nbsp;	
-	{% else %} 
+		{% else %} 
 		<ul>
 			<li>
-				<span>illustration</span>
+			<span class="category"><a href="#">illustration</a></span>
 				<ul>
 					{% for post in site.categories.illustration %}
 						{% if post.title == page.title %}
 							<li class="underline"><a href="#">{{ post.title }}</a></li>
 						{% else %}
-							<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+							<li class="hidden"><a href="{{ post.url }}">{{ post.title }}</a></li>
 						{% endif %}
 					{% endfor %}
 				</ul>
 			</li>
 			<li>
-				<span>urban</span>
+			<span class="category"><a href="#">urban</a></span>
 				<ul>
 					{% for post in site.categories.urban %}
 						{% if post.title == page.title %}
 							<li class="underline"><a href="#">{{ post.title }}</a></li>
 						{% else %}
-							<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+							<li class="hidden"><a href="{{ post.url }}">{{ post.title }}</a></li>
 						{% endif %}
 					{% endfor %}
 				</ul>
 			</li>
 			<li>
-				<span>graphic</span>
+			<span class="category"><a href="#">graphic</a></span>
 				<ul>
 					{% for post in site.categories.graphic %}
 						{% if post.title == page.title %}
 							<li class="underline"><a href="#">{{ post.title }}</a></li>
 						{% else %}
-							<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+							<li class="hidden"><a href="{{ post.url }}">{{ post.title }}</a></li>
 						{% endif %}
 					{% endfor %}
 				</ul>
 			</li>
 			<li>
-				<span>more</span>
+			<span class="category"><a href="#">more</a></span>
 				<ul>
 					{% for post in site.categories.more %}
 						{% if post.title == page.title %}
 							<li class="underline"><a href="#">{{ post.title }}</a></li>
 						{% else %}
-							<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+							<li class="hidden"><a href="{{ post.url }}">{{ post.title }}</a></li>
 						{% endif %}
 					{% endfor %}
 				</ul>

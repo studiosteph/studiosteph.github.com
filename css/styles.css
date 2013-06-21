@@ -155,7 +155,7 @@ nav li.linksactive {
 
 #content img.floatLeft {
 	float: left;
-	margin-left: 10px;
+	margin-right: 10px;
 }
 
 #content li a {

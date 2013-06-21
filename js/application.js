@@ -1,4 +1,9 @@
 $(document).ready(function() {
+	
+	$("span.category a").click(function(event) {
+		event.preventDefault();
+	});
+
 	/*
 	 * Submenu functionality
 	 */

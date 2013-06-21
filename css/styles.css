@@ -148,6 +148,11 @@ nav li.linksactive {
 	width: 250px;
 }
 
+#content div.floatRight {
+	float: right;
+	width: 250px;
+}
+
 #content img.floatLeft {
 	float: left;
 	margin-left: 10px;

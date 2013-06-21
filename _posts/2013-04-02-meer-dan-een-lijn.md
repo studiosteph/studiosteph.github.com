@@ -24,7 +24,7 @@ Ontdek de verhalen van de 4 perioden van tijd; de Middeleeuwen, de Gouden Eeuw, 
 <a href="/img/meerdaneenlijn/21eeuw/21-5.png" rel="lightbox[21eeuw]">&nbsp;</a>
 </div>
 
-<div class="floatLeft">
+<div class="floatRight">
 <a href="/img/meerdaneenlijn/20eeuw/20-1.png" rel="lightbox[20eeuw]"><img src="/img/meerdaneenlijn/20eeuw/cover20.png" width="250px" /></a>
 <a href="/img/meerdaneenlijn/20eeuw/20-2.png" rel="lightbox[20eeuw]">&nbsp;</a>
 <a href="/img/meerdaneenlijn/20eeuw/20-3.png" rel="lightbox[20eeuw]">&nbsp;</a>
@@ -41,7 +41,7 @@ Ontdek de verhalen van de 4 perioden van tijd; de Middeleeuwen, de Gouden Eeuw, 
 <a href="/img/meerdaneenlijn/goudeneeuw/goud-5.png" rel="lightbox[gouden]">&nbsp;</a>
 </div>
 
-<div class="floatLeft">
+<div class="floatRight">
 <a href="/img/meerdaneenlijn/middeleeuwen/middel-1.png" rel="lightbox[middel]"><img src="/img/meerdaneenlijn/middeleeuwen/covermiddel.png" width="250px" /></a>
 <a href="/img/meerdaneenlijn/middeleeuwen/middel-2.png" rel="lightbox[middel]">&nbsp;</a>
 <a href="/img/meerdaneenlijn/middeleeuwen/middel-3.png" rel="lightbox[middel]">&nbsp;</a>

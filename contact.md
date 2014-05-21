@@ -5,7 +5,7 @@ title: contact
 
 Je kunt me het beste bereiken via e-mail.
 
-> "debaas apestaart studiosteph punt nl"
+> <debaas@studiosteph.nl>
 
 
 StudioSteph<br/>
